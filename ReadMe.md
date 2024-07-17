@@ -42,11 +42,13 @@ Jarvis is a voice-activated AI assistant with a user-friendly graphical interfac
 ### Running the Application
 
 1. Navigate to the project directory:
-    '''sh
+   
+    ```sh
     cd /path/to/project/directory
 
-2. Run the application:
-    '''sh
+3. Run the application:
+
+    ```sh
     python main.py
 
 ## How It Works
