@@ -1,0 +1,4 @@
+pillow
+SpeechRecognition==3.10.4
+google-generativeai
+pyttsx3
