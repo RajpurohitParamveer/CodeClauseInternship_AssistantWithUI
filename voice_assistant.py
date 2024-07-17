@@ -5,7 +5,7 @@ import google.generativeai as genai
 import pyttsx3
 from utils import insertText
 
-genai.configure(api_key="AIzaSyBwPdHzjkmMU94fKAHQXUwlJZGO9f_yf3Y")
+genai.configure(api_key="ENTER_YOUR_API_KEY")
 
 generation_config = {
     "temperature": 1,
